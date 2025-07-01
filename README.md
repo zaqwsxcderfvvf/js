@@ -1,2 +1,2 @@
-#лан
+#lorem
 fff xtkxtkxtk
